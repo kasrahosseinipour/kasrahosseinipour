@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning website designing courses
 - 💞️ I’m looking to collaborate on web designing companies
 - 📫 How to reach me ...
-instagram:@kasrahosseinipour
+instagram:@kasra_hsp
 phone:+989364422332
 <!---
 kasrahosseinipour/kasrahosseinipour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
